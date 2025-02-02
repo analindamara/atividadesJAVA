@@ -1,8 +1,8 @@
-package MathJava;
-//Determine a raiz quadrada de 49.
+package MathPowExercicios;
+
 public class Exercicio19 {
     public static void main(String[] args) {
-        double raiz= Math.sqrt(49);
-        System.out.println(raiz);
+        double x=Math.pow(-1,3);
+        System.out.println(x);
     }
 }

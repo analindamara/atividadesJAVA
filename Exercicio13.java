@@ -1,8 +1,9 @@
-package MathJava;
-//Calcule a raiz quadrada de 625.
+package MathPowExercicios;
+
 public class Exercicio13 {
     public static void main(String[] args) {
-        double raiz = Math.sqrt(625);
-        System.out.println(raiz);
+        double x = Math.pow(-3,2);
+        System.out.println(x);
     }
+
 }

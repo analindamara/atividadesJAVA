@@ -1,9 +1,8 @@
-package MathJava;
+package MathPowExercicios;
 
 public class Exercicio17 {
     public static void main(String[] args) {
-        double raiz = Math.sqrt(0.0001);
-        System.out.printf("%.3f%n", raiz);
+        double x= Math.pow(100,0.5);
+        System.out.println(x);
     }
-
 }

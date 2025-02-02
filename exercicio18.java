@@ -1,8 +1,9 @@
 package MathPowExercicios;
 
-public class Exercico14 {
+public class exercicio18 {
     public static void main(String[] args) {
-        double x = Math.pow(9,0.5);
+        double x = Math.pow(10,-2);
         System.out.println(x);
     }
+
 }

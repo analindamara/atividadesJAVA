@@ -1,8 +1,8 @@
-package MathJava;
-//Qual é a raiz quadrada de 121?
+package MathPowExercicios;
+
 public class Exercicio12 {
     public static void main(String[] args) {
-        double raiz = Math.sqrt(121);
-        System.out.println(raiz);
+        double x = Math.pow(8,2);
+        System.out.println(x);
     }
 }
